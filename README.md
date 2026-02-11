@@ -5,7 +5,6 @@
 Repositório destinado ao armazenamento e organização de estudos de caso com consultas desenvolvidas em QSQL no ambiente RM (TOTVS).
 
 
-
 🎯 Objetivo
 
 Centralizar consultas aplicadas em cenários reais de negócio, servindo como base de conhecimento técnico para:
@@ -15,7 +14,6 @@ Centralizar consultas aplicadas em cenários reais de negócio, servindo como ba
 	•	🔗 Integrações entre sistemas
 	•	⚡ Otimização de performance
 
-⸻
 
 📚 Conteúdo
 
@@ -31,7 +29,6 @@ Este repositório contempla:
 	•	🛠 Observações técnicas
 	•	🏷 Versão do RM utilizada
 
-⸻
 
 🚀📏 Boas Práticas
 	•	🏷 Nomear arquivos de forma descritiva
